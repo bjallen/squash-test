@@ -1,5 +1,5 @@
 # squash-test
-1
+1yes
 asdf
 2asdf
 3332
